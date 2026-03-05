@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>隐私权政策 - 成语獵人</title>
+  <style>
+    body{max-width:900px;margin:24px auto;padding:0 16px;font-family:system-ui,-apple-system,"Segoe UI",Roboto,"Noto Sans SC","PingFang SC","Microsoft YaHei",sans-serif;line-height:1.7}
+    h1{font-size:28px} h2{margin-top:20px}
+    code{background:#f3f3f3;padding:2px 6px;border-radius:6px}
+  </style>
+</head>
+<body>
+  <h1>隐私权政策</h1>
+  <p><strong>应用名称：</strong>成语獵人</p>
+  <p><strong>开发者/发布者：</strong>【填写你的开发者/公司名称（与 Play 列表一致）】</p>
+  <p><strong>生效日期：</strong>【2026-03-05】</p>
+
+  <h2>1. 我们收集哪些信息</h2>
+  <p>成语獵人主要提供离线游戏/学习体验。我们<strong>不会</strong>要求用户创建账号，也不会主动收集姓名、电话号码、精确位置等个人身份信息。</p>
+
+  <h2>2. 广告与第三方 SDK（例如 AdMob）</h2>
+  <p>本应用可能使用第三方广告服务（例如 Google Mobile Ads/AdMob）来展示广告。广告 SDK 可能会自动处理部分设备与使用信息（例如广告标识符、IP 地址、粗略位置、诊断/崩溃信息等），用于广告投放、频次控制、防欺诈与效果衡量。</p>
+  <p>有关 Google 广告数据的更多说明，可参考 Google 的相关说明页面。</p>
+
+  <h2>3. 我们如何使用信息</h2>
+  <ul>
+    <li>展示与衡量广告效果（如有）</li>
+    <li>改进应用稳定性（例如崩溃诊断）</li>
+    <li>防止欺诈与滥用</li>
+  </ul>
+
+  <h2>4. 信息共享</h2>
+  <p>除为提供广告服务或合规要求外，我们不会将用户信息出售给第三方。第三方服务（例如广告 SDK）可能会按其政策处理数据。</p>
+
+  <h2>5. 儿童隐私</h2>
+  <p>如果你的目标受众包含未满 13 周岁的儿童，你必须遵守 Google Play Families 等相关政策要求。部分政策对儿童/未知年龄用户限制传输广告标识符（AAID/AD_ID）等信息。若你选择面向儿童/家庭，请确保你的设置与 SDK 配置符合要求。</p>
+
+  <h2>6. 数据保留与删除</h2>
+  <p>我们自身不保存可识别个人身份的用户资料。第三方服务（如广告 SDK）的数据保留与删除规则以其政策为准。</p>
+
+  <h2>7. 安全</h2>
+  <p>我们会采取合理措施保护应用运行过程中的数据安全，但互联网传输无法保证绝对安全。</p>
+
+  <h2>8. 政策更新</h2>
+  <p>我们可能不时更新本政策，并在此页面发布最新版本。</p>
+
+  <h2>9. 联系方式</h2>
+  <p>如有任何问题，请联系：<strong>【mmluckyteam@gmail.com】</strong></p>
+</body>
+</html>
